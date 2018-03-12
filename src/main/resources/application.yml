@@ -1,0 +1,6 @@
+yml:
+ email: 123456@163.com
+ blog: http://blog.456798.com
+
+#logging:
+#    config: classpath:logback-spring.xml
